@@ -10,6 +10,8 @@ A simple, single-file modmail bot that you can use in your servers.
 ![GitHub issues](https://img.shields.io/github/issues/isigebengu-mikey/Mercury-Modmail-Discord)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/isigebengu-mikey/Mercury-Modmail-Discord)
 ![GitHub commits since latest release (by date)](https://img.shields.io/github/commits-since/isigebengu-mikey/Mercury-Modmail-Discord/v1.0.0)
+[![Requirements Status](https://requires.io/github/isigebengu-mikey/Mercury-Modmail-Discord/requirements.svg?branch=main)](https://requires.io/github/isigebengu-mikey/Mercury-Modmail-Discord/requirements/?branch=main)
+
 
 ![screenshot 1](https://media.discordapp.net/attachments/767829229668139019/768451354942504970/unknown.png?width=874&height=454)
 ![screenshot 2 (don't mind the all of those pings)](https://media.discordapp.net/attachments/767829229668139019/768451666487541760/unknown.png?width=872&height=454)
