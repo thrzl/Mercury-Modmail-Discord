@@ -1,7 +1,7 @@
 # Mercury
 A simple, single-file modmail bot that you can use in your servers.     
 
-![Discord](https://img.shields.io/discord/761219652436361227)
+[![Discord](https://img.shields.io/discord/773162574752514049?style=for-the-badge)](https://discord.com/invite/bNtj2nFnYA)
 ![GitHub](https://img.shields.io/github/license/isigebengu-mikey/Mercury-Modmail-Discord)
 ![GitHub top language](https://img.shields.io/github/languages/top/isigebengu-mikey/Mercury-Modmail-Discord)
 ![GitHub repo size](https://img.shields.io/github/repo-size/isigebengu-mikey/Mercury-Modmail-Discord)
